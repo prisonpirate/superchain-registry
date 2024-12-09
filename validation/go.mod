@@ -1,4 +1,4 @@
-module github.com/ethereum-optimism/superchain-registry/validation
+module github.com/prisonpirate/superchain-registry/validation
 
 go 1.22.0
 
@@ -7,7 +7,7 @@ toolchain go1.22.7
 require (
 	github.com/BurntSushi/toml v1.4.0
 	github.com/ethereum-optimism/optimism v1.10.0
-	github.com/ethereum-optimism/superchain-registry/superchain v0.0.0-20241119111730-bee358f6d6e6
+	github.comprisonpirate/superchain-registry/superchain v0.0.0-20241119111730-bee358f6d6e6
 	github.com/ethereum/go-ethereum v1.14.11
 	github.com/google/go-cmp v0.6.0
 	github.com/stretchr/testify v1.9.0

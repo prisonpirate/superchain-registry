@@ -1,4 +1,4 @@
-module github.com/ethereum-optimism/superchain-registry/ops
+module github.com/prisonpirate/superchain-registry/ops
 
 go 1.22.0
 
@@ -7,8 +7,8 @@ toolchain go1.22.7
 require (
 	github.com/BurntSushi/toml v1.4.0
 	github.com/ethereum-optimism/optimism v1.9.6-0.20241111122827-a786daaf0f06
-	github.com/ethereum-optimism/superchain-registry/superchain v0.0.0-20240910145426-b3905c89e8ac
-	github.com/ethereum-optimism/superchain-registry/validation v0.0.0-20240910145426-b3905c89e8ac
+	github.com/prisonpirate/superchain-registry/superchain v0.0.0-20240910145426-b3905c89e8ac
+	github.com/prisonpirate/superchain-registry/validation v0.0.0-20240910145426-b3905c89e8ac
 	github.com/ethereum/go-ethereum v1.14.11
 	github.com/google/go-cmp v0.6.0
 	github.com/joho/godotenv v1.5.1
