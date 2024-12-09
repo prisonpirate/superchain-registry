@@ -12,7 +12,7 @@ import (
 	"sort"
 
 	"github.com/BurntSushi/toml"
-	. "github.com/ethereum-optimism/superchain-registry/superchain"
+	. "github.com/prisonpirate/superchain-registry/superchain"
 )
 
 type ChainEntry struct {
