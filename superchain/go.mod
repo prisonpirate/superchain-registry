@@ -1,4 +1,4 @@
-module github.com/ethereum-optimism/superchain-registry/superchain
+module github.com/prisonpirate/superchain-registry/superchain
 
 go 1.22.0
 
